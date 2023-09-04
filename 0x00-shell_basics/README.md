@@ -2,7 +2,7 @@
 
 -A script that prints the absolute path name of the current working directory [0-current_working_directory](https://github.com/NatuSam/alx-system_engineering-devops/blob/master/0x00-shell_basics/0-current_working_directory)
 
--A command that displays the contents list of your current directory.[1-listi](thttps://github.com/NatuSam/alx-system_engineering-devops/blob/master/0x00-shell_basics/1-listit)
+-A command that displays the contents list of your current directory.[1-listit](https://github.com/NatuSam/alx-system_engineering-devops/blob/master/0x00-shell_basics/1-listit)
 
 -A script that changes the working directory to the user’s home directory.[2-bring_me_home](https://github.com/NatuSam/alx-system_engineering-devops/blob/master/0x00-shell_basics/2-bring_me_home)
 
@@ -10,7 +10,7 @@
 
 -A command that displays current directory contents, including hidden files (starting with .), using the long format.[ 4-listmorefiles]( https://github.com/NatuSam/alx-system_engineering-devops/blob/master/0x00-shell_basics/4-listmorefiles)
 
--A command that displays the current directory contents. [5-listfilesdigitonly]( https://github.com/NatuSam/alx-system_engineering-devops/blob/master/0x00-shell_basics/5-listfilesdigitonly)
+-A command that displays the current directory contents. [5-listfilesdigitonly](https://github.com/NatuSam/alx-system_engineering-devops/blob/master/0x00-shell_basics/5-listfilesdigitonly)
 
 -A script that creates a directory named my_first_directory in the /tmp/ directory. [6-firstdirectory]( https://github.com/NatuSam/alx-system_engineering-devops/blob/master/0x00-shell_basics/6-firstdirectory)
 
