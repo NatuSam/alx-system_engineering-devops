@@ -1,4 +1,5 @@
-#0x00. Shell, basics
+#**0x00. Shell, basics**
+
 A script that prints the absolute path name of the current working directory [0-current_working_directory](https://github.com/NatuSam/alx-system_engineering-devops/blob/master/0x00-shell_basics/0-current_working_directory)
 A command that displays the contents list of your current directory.[ 1-listit]( https://github.com/NatuSam/alx-system_engineering-devops/commit/72488e978143081278e7abc3b1b09fae9a3901fa)
 A script that changes the working directory to the user’s home directory.[ 2-bring_me_home]( https://github.com/NatuSam/alx-system_engineering-devops/commit/4b57bbffed9915cf1d2418b504b24063b78e78aa)
